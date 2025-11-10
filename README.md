@@ -6,7 +6,6 @@ A simple and fun **Rock–Paper–Scissors** game built in **Python**. Play agai
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
